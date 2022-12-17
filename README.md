@@ -55,6 +55,8 @@ Refer to this [link](https://stackoverflow.com/questions/22258491/read-a-small-r
 ### [Classification Model](https://github.com/soulprogrammer01/Precog_Recruitment_Task/blob/main/Modelling.ipynb) 
 * To predict whether a particular defendant under a given judge will be male, female or other.
 * To predict whether a particular petitioner under a given judge will be male, female or other.
+#### Conclusion
+![model insight](https://user-images.githubusercontent.com/53926096/208235947-f0e3ee0b-1dfa-4965-ba82-94b70c80fa5f.jpg)
 
 
 
