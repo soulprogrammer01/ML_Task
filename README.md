@@ -13,7 +13,8 @@ Sampling of Data :
  Sampled data set has 235k rows, **download it from [here](https://drive.google.com/file/d/16qFef7lYcg6keYl8cfMIyT5_OM1yUUhE/view?usp=share_link)**
  | Year        | Initia row          | After sampling  |
 | ------------- |:-------------:| -----:|
-| 2011          |  < 50 lakh    |  20 k     |
+| 2010          | < 50 lakh     | 20 k |    
+|2011          |  < 50 lakh    |  20 k     |
 | 2012          | < 50 lakh     | 20 k |
 | 2013          | 50 lakh-1cr   |    30 k|
 | 2014          | 50 lakh-1cr   | 30 k |
