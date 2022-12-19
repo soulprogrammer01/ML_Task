@@ -10,7 +10,7 @@ To understand the tables, please refer to the metadata at the following links:
 
 Sampling of Data :
  Done the Random sampling based upon the number of rows present in each year's dataset then merge them into one csv.
- Sampled data set has 235k rows, **download it from [here](https://drive.google.com/file/d/16qFef7lYcg6keYl8cfMIyT5_OM1yUUhE/view?usp=share_link)**
+ Sampled data set has 265k rows, **download it from [here](https://drive.google.com/file/d/16qFef7lYcg6keYl8cfMIyT5_OM1yUUhE/view?usp=share_link)**
  | Year        | Initia row          | After sampling  |
 | ------------- |:-------------:| -----:|
 | 2010          | < 50 lakh     | 20 k |    
