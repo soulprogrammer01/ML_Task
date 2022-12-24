@@ -1,4 +1,4 @@
-# Precog_Recruitment_Task
+# Task
 
 ### Data
 This is a database of ~80 million Indian district court data across states from the Development Data Lab.
